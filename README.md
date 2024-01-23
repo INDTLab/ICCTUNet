@@ -39,10 +39,8 @@ Check those scripts for more details.
         publisher={IEEE}
       }
 
-We used these repositories to implement our code:
+Thanks to the authors of these repositories:
         
-        https://github.com/milesial/Pytorch-UNet
-        
-        https://github.com/Beckschen/TransUNet
-        
+        https://github.com/milesial/Pytorch-UNet      
+        https://github.com/Beckschen/TransUNet 
         https://github.com/microsoft/Swin-Transformer
