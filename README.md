@@ -27,7 +27,7 @@ Tumor
 ### Visualize
         python predict_synapse.py --cuda_id 0
 
-Check those scripts for more detail.
+Check those scripts for more details.
 
 # Citation
 
@@ -40,6 +40,9 @@ Check those scripts for more detail.
       }
 
 We used these repositories to implement our code:
+        
         https://github.com/milesial/Pytorch-UNet
+        
         https://github.com/Beckschen/TransUNet
+        
         https://github.com/microsoft/Swin-Transformer
