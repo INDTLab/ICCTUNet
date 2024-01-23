@@ -18,6 +18,10 @@ Tumor
 
         https://github.com/282857341/nnFormer
 
+BUSI, ISIC
+
+         https://github.com/jeya-maria-jose/UNeXt-pytorch
+
 ### Train
         python train_ICCTUNet_synapse.py --cuda_id 0
 
@@ -43,7 +47,7 @@ Check those scripts for more details.
         year={2023},
         publisher={IEEE}
       }
-
+# Acknowledgments
 Thanks to the authors of these repositories:
         
         https://github.com/milesial/Pytorch-UNet      
