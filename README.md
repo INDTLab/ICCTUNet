@@ -31,8 +31,8 @@ Check those scripts for more details.
 
 ### Pretrained Weights
 
-        https://pan.baidu.com/s/1ayoRW9lCNpQplTVV-n3lsg?pwd=9me1 
-
+        Synapse: https://pan.baidu.com/s/1ayoRW9lCNpQplTVV-n3lsg?pwd=9me1 
+        ACDC: https://pan.baidu.com/s/1IaKFbx2ef93R90C5laiLKA?pwd=fejx 
 
 # Citation
 
