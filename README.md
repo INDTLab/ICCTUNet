@@ -29,6 +29,11 @@ Tumor
 
 Check those scripts for more details.
 
+### Pretrained Weights
+
+        https://pan.baidu.com/s/1ayoRW9lCNpQplTVV-n3lsg?pwd=9me1 
+
+
 # Citation
 
         @article{qi2023small,
