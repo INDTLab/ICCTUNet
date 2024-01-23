@@ -22,6 +22,18 @@ BUSI, ISIC
 
          https://github.com/jeya-maria-jose/UNeXt-pytorch
 
+CFD
+
+        https://github.com/cuilimeng/CrackForest
+
+MT
+
+        https://github.com/abin24/Magnetic-tile-defect-datasets
+
+KSDD
+
+        https://www.vicos.si/resources/kolektorsdd/
+
 ### Train
         python train_ICCTUNet_synapse.py --cuda_id 0
 
